@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>My office</name>
+    <description>This is the college.</description>
+    <Point>
+      <coordinates>0.894567, 51.890569</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+
+  <Placemark>
+    <name>Assington</name>
+    <description>This is Assington.</description>
+    <Point>
+      <coordinates>0.8186926713867715, 52.01308413441373</coordinates>
+    </Point>
+  </Placemark> 
+  
+    <Placemark>
+    <name>Leavenheath</name>
+    <description>This is Leavenheath.</description>
+    <Point>
+      <coordinates>0.8379187456055215, 51.99194826373965</coordinates>
+    </Point>
+  </Placemark> 
+  
+  <Placemark>
+    <name>Boxted</name>
+    <description>This is Boxted.</description>
+    <Point>
+      <coordinates>0.9213461748047402, 51.96149507435049</coordinates>
+    </Point>
+  </Placemark>
+</kml>
